@@ -1,0 +1,19 @@
+h1{
+    color: aquamarine;
+}
+p{
+    color: blue;
+    font-size: 100px;
+}
+body{
+    background-color:#c4b9c7;
+}
+button{
+    color: darkorange;
+    background-color: blueviolet;
+}
+input{
+    color: aquamarine;
+    background-color: bisque;
+}
+
